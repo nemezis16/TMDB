@@ -1,0 +1,15 @@
+PODS:
+  - Cosmos (9.0.0)
+  - ObjectMapper (2.2.6)
+
+DEPENDENCIES:
+  - Cosmos
+  - ObjectMapper (~> 2.2)
+
+SPEC CHECKSUMS:
+  Cosmos: 33eee62b2a0418452aef470f711f83c3ea061b7b
+  ObjectMapper: 042708195cc46c20871cbcbec0453826398273fd
+
+PODFILE CHECKSUM: 21a6acc9fadd3876cee597eb590718478e500059
+
+COCOAPODS: 1.2.1
